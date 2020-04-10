@@ -344,6 +344,7 @@ ol li em {
   right: calc(-100% + 150px);
   bottom: calc(-100% + 150px);
   border-radius: 30px !important;
+  padding-top: 12px;
   transition: all 0.45s cubic-bezier(0.86, 0, 0.07, 1);
   cursor: pointer;
 }
