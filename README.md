@@ -1,6 +1,2 @@
 # project-retrowave
-An *attempt* for a clean YouTube music player experience.
-
-Project live at [otpidusprime.github.io/project-retrowave](https://otpidusprime.github.io/project-retrowave/).
-
-Thanks! 🙌🏽
+what youtube music player [could have been](https://swoodipto.github.io/project-retrowave).
